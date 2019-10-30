@@ -1,9 +1,12 @@
 const express = require('express');
+
 const app = express();
 
-app.use((req,res) => {
+app.set('view engine', 'pug');
+
+app.use('/', (req,res) => {
     console.log('Its working');
-    res.send('Hi Everyone');
+    res.render('./views/index');
 })
 
 app.listen(3000, () =>{
