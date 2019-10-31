@@ -7,7 +7,7 @@
             "technologies": "[HTML, CSS, JavaScript]",
             "live_link": "https://catalight.github.io/quote-generator/",
             "github_link": "https://github.com/CataLight/quote-generator",
-            "image_urls": "['../images/project1/landingpage.png','../images/project1/1.png', '../images/project1/2.png']"
+            "image_urls": "['../static/images/project1/landingpage.png','../static/images/project1/1.png', '../static/images/project1/2.png']"
         },
         {
             "id": "2",
@@ -16,7 +16,7 @@
             "technologies": "[HTML, CSS, JavaScript]",
             "live_link": "https://catalight.github.io/list-pagination/",
             "github_link": "https://github.com/CataLight/list-pagination",
-            "image_urls": "['../images/project2/landingpage.png','../images/project2/1.png', '../images/project2/2.png']"
+            "image_urls": "['../static/images/project2/landingpage.png','../static/images/project2/1.png', '../static/images/project2/2.png']"
         },
         {
             "id": "3",
@@ -25,7 +25,7 @@
             "technologies": "[HTML, CSS, jQuery]",
             "live_link": "https://catalight.github.io/interactive-form/",
             "github_link": "https://github.com/CataLight/interactive-form",
-            "image_urls": "['../images/project3/landingpage.png','../images/project3/1.png', '../images/project3/2.png']"
+            "image_urls": "['..static/images/project3/landingpage.png','../static/images/project3/1.png', '../static/images/project3/2.png']"
         },
         {
             "id": "4",
@@ -34,7 +34,7 @@
             "technologies": "[HTML, CSS, JavaScript]",
             "live_link": "https://catalight.github.io/phrase-hunter/",
             "github_link": "https://github.com/CataLight/phrase-hunter",
-            "image_urls": "['../images/project4/landingpage.png','../images/project4/1.png', '../images/project4/2.png', '../images/project4/3.png', '../images/project4/4.png']"
+            "image_urls": "['../static/images/project4/landingpage.png','../static/images/project4/1.png', '../static/images/project4/2.png', '../static/images/project4/3.png', '../static/images/project4/4.png']"
         },
         {
             "id": "5",
@@ -43,7 +43,7 @@
             "technologies": "[HTML, CSS, JavaScript]",
             "live_link": "https://catalight.github.io/public-api/",
             "github_link": "https://github.com/CataLight/public-api",
-            "image_urls": "['../images/project5/landingpage.png','../images/project5/1.png', '../images/project5/2.png', '../images/project5/3.png', '../images/project5/4.png']"
+            "image_urls": "['../static/images/project5/landingpage.png','../static/images/project5/1.png', '../static/images/project5/2.png', '../static/images/project5/3.png', '../static/images/project5/4.png']"
         }
     ]
         
