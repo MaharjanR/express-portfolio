@@ -4,7 +4,7 @@
             "id": "1",
             "project_name": "Quote Generator",
             "description": "This is a random quote generator project. It generates random quotes from the array whenever the button is pressed and after a certail interval of time.",
-            "technologies": "[HTML, CSS, JavaScript]",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://catalight.github.io/quote-generator/",
             "github_link": "https://github.com/CataLight/quote-generator",
             "image_urls": ["../static/images/project1/landingpage.png","../static/images/project1/1.png", "../static/images/project1/2.png"]
@@ -13,7 +13,7 @@
             "id": "2",
             "project_name": "List Pagination",
             "description": "This project is to display the pagination at the bottom as per the number of students. Each page consists of 10 students and if the student count is less than 10 then the remaining students left are displayed. It also has the search function from where we can search studen if matching letters are in the students name.",
-            "technologies": "[HTML, CSS, JavaScript]",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://catalight.github.io/list-pagination/",
             "github_link": "https://github.com/CataLight/list-pagination",
             "image_urls": ["../static/images/project2/landingpage.png","../static/images/project2/1.png", "../static/images/project2/2.png"]
@@ -22,7 +22,7 @@
             "id": "3",
             "project_name": "Interactive Form",
             "description": "This is an interactive form project. To submit the form all the required informations need to be fulfilled. Also depending upon the design theme, the color options are changed. Same time activities can not be selected, if one of the same timing is selected.",
-            "technologies": "[HTML, CSS, jQuery]",
+            "technologies": ["HTML", "CSS", "jQuery"],
             "live_link": "https://catalight.github.io/interactive-form/",
             "github_link": "https://github.com/CataLight/interactive-form",
             "image_urls": ["../static/images/project3/landingpage.png","../static/images/project3/1.png", "../static/images/project3/2.png"]
@@ -31,7 +31,7 @@
             "id": "4",
             "project_name": "Phrase Hunter",
             "description": "This is a phrase hunter game. A random phrase is displayed every time the game starts where the player has to guess the words and if the player manages to guess all the work before the completion of their remaining health, they win the game and if not then they will lose the game. Selected words can not be clicked and will not work. ",
-            "technologies": "[HTML, CSS, JavaScript]",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://catalight.github.io/phrase-hunter/",
             "github_link": "https://github.com/CataLight/phrase-hunter",
             "image_urls": ["../static/images/project4/landingpage.png","../static/images/project4/1.png", "../static/images/project4/2.png", "../static/images/project4/3.png", "../static/images/project4/4.png"]
@@ -40,7 +40,7 @@
             "id": "5",
             "project_name": "Public API",
             "description": "This is a project leveraging the public user API to get the random user. It generates 12 random users at a time and you can use the search function in it to search for the user using the name of the user. There is also a card created for user where more information can be found",
-            "technologies": "[HTML, CSS, JavaScript]",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://catalight.github.io/public-api/",
             "github_link": "https://github.com/CataLight/public-api",
             "image_urls": ["../static/images/project5/landingpage.png","../static/images/project5/1.png", "../static/images/project5/2.png", "../static/images/project5/3.png", "../static/images/project5/4.png"]
