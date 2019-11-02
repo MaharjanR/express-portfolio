@@ -23,7 +23,7 @@
         {
             "id": "3",
             "project_name": "Interactive Form",
-            "description": "This is an interactive form project. To submit the form all the required informations need to be fulfilled.",
+            "description": "This is an interactive form project. There is a validation for the user. In order to submit the form all the required informations need to be fulfilled.",
             "technologies": ["HTML", "CSS", "jQuery"],
             "live_link": "https://catalight.github.io/interactive-form/",
             "github_link": "https://github.com/CataLight/interactive-form",
