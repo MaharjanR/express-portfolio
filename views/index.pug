@@ -4,19 +4,16 @@ block content
   article.grid-container.portfolio-intro
     div
 
-      //- Add a title or heading like My Portfolio, or Hey, Potential Employers, or Let's make the web great together! 
       h1 Personal Portfolio
 
-      //- Add a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
       p.lead.text-light
         | These are some of the projects that i have created using the skills that i learned in teamtreehouse
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
 
-      //- Use the Pug `each` iterator to create a project img, title and link in the markup for each of the projects you are showcasing.  
       each project in projects
         .cell
           a(href=`/project/${project.id}`)
-            img.thumbnail(src=`${project.image_urls[0]}`)
+            img.thumbnail(src=`${project.thumbnail}`)
             h5= project.project_name
