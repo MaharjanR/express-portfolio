@@ -1,14 +1,17 @@
 const express = require('express');
 const router = express.Router();
-const {properties} = require('../data/data.json');
+const {projects} = require('../data/data.json');
 
 router.get('/:id', (req,res) => {
 
     id = req.params.id;
+    if(id > projects.length){
+        res.redirect('../error');
+    }
     let project = '';
-    for(var property of properties) {
-        if(id === property.id){
-            project = property;
+    for(var data of projects) {
+        if(id === data.id){
+            project = data;
         }
       }
       
