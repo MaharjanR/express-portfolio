@@ -3,7 +3,7 @@ This is a portfolio website made to showcase my skills. This project was built u
 To run this project, do the following steps:
 
 1. git clone https://github.com/CataLight/express-portfolio.git
-2. git npm install
+2. npm install
 3. nodemon
 
 Open your desired browser and go on to localhost:3000 to run this project.
