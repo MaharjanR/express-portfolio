@@ -5,8 +5,8 @@
             "project_name": "Quote Generator",
             "description": "This is a random quote generator project. It generates random quotes from the array whenever the button is pressed and/or after a certain interval of time.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://catalight.github.io/quote-generator/",
-            "github_link": "https://github.com/CataLight/quote-generator",
+            "live_link": "https://maharjanr.github.io/quote-generator/",
+            "github_link": "https://github.com/maharjanr/quote-generator",
             "image_urls": ["/static/images/project1/1.png", "/static/images/project1/2.png", "/static/images/project1/3.png"],
             "thumbnail": "/static/images/project1/landingpage.png"
         },
@@ -15,8 +15,8 @@
             "project_name": "List Pagination",
             "description": "This project is to display the pagination at the bottom as per the number of students. Each page consists of 10 students and if the student count is less than 10 then the remaining students left are displayed. It also has the search function from where we can search student if matching letters are in the students name.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://catalight.github.io/list-pagination/",
-            "github_link": "https://github.com/CataLight/list-pagination",
+            "live_link": "https://maharjanr.github.io/list-pagination/",
+            "github_link": "https://github.com/maharjanr/list-pagination",
             "image_urls": ["/static/images/project2/1.png", "/static/images/project2/2.png", "/static/images/project2/3.png"],
             "thumbnail": "/static/images/project2/landingpage.png"
         },
@@ -25,8 +25,8 @@
             "project_name": "Interactive Form",
             "description": "This is an interactive form project. There is a validation for the user. In order to submit the form all the required informations need to be fulfilled.",
             "technologies": ["HTML", "CSS", "jQuery"],
-            "live_link": "https://catalight.github.io/interactive-form/",
-            "github_link": "https://github.com/CataLight/interactive-form",
+            "live_link": "https://maharjanr.github.io/interactive-form/",
+            "github_link": "https://github.com/maharjanr/interactive-form",
             "image_urls": ["/static/images/project3/1.png", "/static/images/project3/2.png"],
             "thumbnail": "/static/images/project3/landingpage.png"
         },
@@ -35,8 +35,8 @@
             "project_name": "Phrase Hunter",
             "description": "This is a phrase hunter game. A random phrase is displayed every time the game starts where the player has to guess the words and if the player manages to guess all the work before the completion of their remaining health, they win the game and if not then they will lose the game.",
             "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
-            "live_link": "https://catalight.github.io/phrase-hunter/",
-            "github_link": "https://github.com/CataLight/phrase-hunter",
+            "live_link": "https://maharjanr.github.io/phrase-hunter/",
+            "github_link": "https://github.com/maharjanr/phrase-hunter",
             "image_urls": ["/static/images/project4/1.png", "/static/images/project4/2.png", "/static/images/project4/3.png", "/static/images/project4/4.png"],
             "thumbnail": "/static/images/project4/landingpage.png"
         },
@@ -45,8 +45,8 @@
             "project_name": "Public API",
             "description": "This is a project leveraging the public user API to get the random user. It generates 12 random users at a time and you can use the search function in it to search for the user using the name of the user. There is also a card created for each user where more information can be found",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
-            "live_link": "https://catalight.github.io/public-api/",
-            "github_link": "https://github.com/CataLight/public-api",
+            "live_link": "https://maharjanr.github.io/public-api/",
+            "github_link": "https://github.com/maharjanr/public-api",
             "image_urls": ["/static/images/project5/1.png", "/static/images/project5/2.png", "/static/images/project5/3.png", "/static/images/project5/4.png", "/static/images/project5/5.png"],
             "thumbnail": "/static/images/project5/landingpage.png"
         },
@@ -55,8 +55,8 @@
             "project_name": "React Gallery App",
             "description": "This is a React project leveraging the flickr API to get the images. It generates 24 images depending upon the search or the navigation you are on.You can use the search function to search for the images that are on flickr.",
             "technologies": ["HTML", "CSS", "JavaScript", "Axios", "React"],
-            "live_link": "https://catalight.github.io/react-app/#/",
-            "github_link": "https://github.com/CataLight/react-app",
+            "live_link": "https://maharjanr.github.io/react-app/#/",
+            "github_link": "https://github.com/maharjanr/react-app",
             "image_urls": ["/static/images/project6/1.png", "/static/images/project6/2.png", "/static/images/project6/3.png"],
             "thumbnail": "/static/images/project6/landingpage.png"
         }
